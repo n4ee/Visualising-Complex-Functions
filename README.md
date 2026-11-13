@@ -4,7 +4,7 @@ Feast your eyes! As I present a beautiful way to portray your favorite topic in 
 
 ![sin(1/z)](images/sin-inverse-z.png)
 
-*`sin(1/z)` — the zeros sit at 1/(nπ), which crowd towards the origin, explaining why the structure gets finer until the pixels give out.*
+*`sin(1/z)`, the zeros sit at 1/(nπ), which crowd towards the origin, explaining why the structure gets finer until the pixels give out.*
 
 ## What am I looking at?
 
@@ -25,15 +25,15 @@ $$h = \frac{\arg f(z)}{2\pi} \bmod 1$$
 
 ![z^5 - 1](images/z5-minus-1.png)
 
-*`z**5 - 1` — five simple zeros sitting in a pentagon on the unit circle.*
+*`z**5 - 1`, five simple zeros sitting in a pentagon on the unit circle.*
 
 ![a rational function with a double zero](images/rational-double-zero.png)
 
-*`(z**2 - 1)*(z - 2 - 1j)**2 / (z**2 + 2 + 2j)` — two simple zeros, a double zero, and two poles.*
+*`(z**2 - 1)*(z - 2 - 1j)**2 / (z**2 + 2 + 2j)`, two simple zeros, a double zero, and two poles.*
 
 ![z squared](images/z-squared.png)
 
-*`z**2` — a single zero at the origin, with the colours cycling twice around it.*
+*`z**2`, a single zero at the origin, with the colours cycling twice around it.*
 
 ## Terminal
 
