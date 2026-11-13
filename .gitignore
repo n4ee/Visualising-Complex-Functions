@@ -1,0 +1,9 @@
+# ignore python cache files
+__pycache__/
+*.pyc
+
+# ignore generated output
+*.png
+
+# but keep the showcase images
+!images/*.png
