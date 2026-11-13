@@ -55,6 +55,6 @@ The visualiser will ask for 3 inputs:
 Simply install numpy and pillow alongside this git:
 
 ```bash
-git clone https://github.com/<your-username>/visualising-complex-functions.git
+git clone https://github.com/<n4ee>/visualising-complex-functions.git
 pip install numpy pillow matplotlib
 ```
